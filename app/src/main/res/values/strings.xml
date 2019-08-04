@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TMDB Udemy</string>
+    <string name="api_key">d72e964a8778ea63c83ee06adaf4c1f7</string>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>
